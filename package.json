@@ -1,0 +1,9 @@
+{
+  "name": "b4d-nodejs-experiments",
+  "version": "1.0.0",
+  "description": "Experiments with Node.js on appengine.",
+  "main": "index.js",
+  "repository": "https://github.com/brad4d/b4d-nodejs-experiments.git",
+  "author": "Bradford C. Smith",
+  "license": "GPLv3"
+}
